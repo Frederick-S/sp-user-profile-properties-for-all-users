@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="1e1a6dd4-9e90-4efa-8e68-6d30dc482e92" 
+        solutionId="1e1a6dd4-9e90-4efa-8e68-6d30dc482e92" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePoint_App_SPUserProfilePropertiesForAllUsers_Test"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="e370bb28-6fc9-423d-9bea-60a64c49d533" />
+  </features>
+</package>
