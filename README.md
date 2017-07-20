@@ -1,4 +1,6 @@
 # sp-user-profile-properties-for-all-users
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/sp-user-profile-properties-for-all-users.svg)](https://greenkeeper.io/)
 Get SharePoint user profile properties for all users in site collection.
 
 ## Installation
